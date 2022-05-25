@@ -529,19 +529,19 @@ footer{
     
 }
 
-#footertekst{
+.footertekst{
     margin-bottom:20px;
     color: #f7f8f6;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: lighter;
 }
 
-#footertekst > a{
+.footertekst > a{
     text-decoration: none;
     color: #f7f8f6;
 }
 
-#footertekst > a:hover{
+.footertekst > a:hover{
     font-weight: 300;
 }
 
@@ -840,13 +840,13 @@ footer{
         padding-bottom: 30px;
     }
 
-    #footeroverskrift{
+    .footeroverskrift{
         padding-left: 150px;
         font-weight: bolder;
         font-size: 15px;
     }
 
-    #footertekst{
+    .footertekst{
         padding-left: 150px;
         padding-top: 0%;
         font-weight:lighter;
