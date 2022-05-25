@@ -203,12 +203,14 @@ u{
     color: #a5be00;
     text-decoration: none;
     font-family: 'Shadows Into Light', cursive;
-    line-height: 30px;  
+    line-height: 30px;
+    letter-spacing: 2px;  
 }
 
 h4{
     font-family: 'Shadows Into Light', cursive;
     line-height: 20px; 
+    letter-spacing: 2px;
 }
 
 p{
