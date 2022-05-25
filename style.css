@@ -517,7 +517,7 @@ footer{
 
 
 /* tekst dekoration på footer */
-#footeroverskrift{
+.footeroverskrift{
     font-family: montserrat, sans-serif;
     font-weight: 800;
     font-style: normal;
